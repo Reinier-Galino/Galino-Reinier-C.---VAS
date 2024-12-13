@@ -18,7 +18,7 @@ This project aligns with **SDG 3** by promoting the health and well-being of ani
 ## Instruction for Running the Program 
 
 1.**Clone the repository**:
-   git clone https://github.com/yourusername/veterinary-appointment-system.git
+   git clone https://github.com/Reinier-Galino/Galino-Reinier-C.---VAS.git
 Open BlueJ and navigate to the project folder:
 1.Open BlueJ and select "Project" -> "Open Project."
 2.Browse to the folder where the project was cloned and select it.
